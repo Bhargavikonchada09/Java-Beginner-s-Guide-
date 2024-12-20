@@ -4,7 +4,7 @@ This guide is also available on [Dev.to](https://dev.to/bharu_0fec38bd0fb51b7674
 Getting Started with Java: A Beginner's Guide
 Hi, I’m TechFriend Bhargavi, and today we’ll be learning about Java. Let’s get started!
 
-Image description
+https://images.app.goo.gl/6hH2p4PgwjFy8oNN9
 
 What is Java?
 
